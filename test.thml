@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>RPM player test</title>
+
+
+<meta property="og:site_name" content="RPM player test" />
+<meta property="og:title" content="RPM player test " />
+<meta property="og:url" content="http://vrpm.tv/c/c3zw5o471n?pkey=9gkm2mx3r2" />
+<meta property="og:type" content="video" />
+
+<meta property="og:image" content="http://video.redpm.net/images/campaign_preview/5933_small.jpg" />
+<meta property="og:image:secure_url" content="https://video.redpm.net/images/campaign_preview/5933_small.jpg" />
+<meta property="og:description" content="" />
+
+<meta property="og:video" content="https://cms.redpineapplemedia.com/ananas/ananas.swf?independent=true&amp;pmode=shared&amp;ckey=c3zw5o471n&amp;pkey=9gkm2mx3r2" />
+<meta property="og:video:secure_url" content="https://cms.redpineapplemedia.com/ananas/ananas.swf?independent=true&amp;pmode=shared&amp;ckey=c3zw5o471n&amp;pkey=9gkm2mx3r2" />
+<meta property="og:video:height" content="436" />
+<meta property="og:video:width" content="774" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+
+<meta name="twitter:card" content="player">
+<meta name="twitter:title" content="RPM player test">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://video.redpm.net/images/campaign_preview/5933_small.jpg">
+<meta name="twitter:player" content="https://cms.redpineapplemedia.com/frame?ckey=c3zw5o471n&amp;pmode=shared&amp;pkey=9gkm2mx3r2#inline=1&amp;no_preview_video=1">
+<meta name="twitter:player:width" content="774">
+<meta name="twitter:player:height" content="436">
+
+<meta name="viewport" content="width=775">
+
+<link rel="stylesheet" type="text/css" href="https://player.redpineapplemedia.com/ananas/campaignSite.css">
+
+</head>
+
+<body>
+
+  <table class="center"><tr><td>
+
+    <div id="campaign" style="width: 650px;">
+      <script  data-ckey="c3zw5o471n"  data-pkey="9gkm2mx3r2"  data-pmode="shared" data-rpmplayer type="text/javascript">var d=document,a=window.__Ananas__,n=d.createElement("script"),s=d.getElementsByTagName("script")[0];if(!d.getElementById("rpm_")){n.type="text/javascript"; n.id="rpm_"; n.async=true;n.src="https://player.redpineapplemedia.com/ananas/bundle.js";s.parentNode.insertBefore(n,s)};if(a){if(a.reInit){a.reInit()}}</script>
+    </div>
+
+  </td></tr></table>
+
+</body>
+</html>
